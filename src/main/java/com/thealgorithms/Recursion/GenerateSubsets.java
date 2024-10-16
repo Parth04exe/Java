@@ -1,6 +1,6 @@
 package com.thealgorithms.Recursion;
 
-// program to find power set of a string
+// program to find power set of a given string
 
 import java.util.ArrayList;
 import java.util.List;
